@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /books/
+permalink: /friends/
 title: My friends around the world
 tags: [books]
 modified: 4-10-2019
