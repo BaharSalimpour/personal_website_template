@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [Favorite Author](https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry)
+* [Places I want to visit](https://disneyland.disney.go.com/destinations/disneyland/)
+* [My home city](https://en.wikipedia.org/wiki/Qazvin)
+* [My university](https://www.iust.ac.ir/)
 
